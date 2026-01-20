@@ -15,6 +15,8 @@ Referente ao Projeto da Ferramenta de Controle de Investimentos com Excel:
 
 Agradeço a todos os profissionais que me ajudaram a construir esse conhecimento incrivel! 
 
+
+
 *Organizador de Declaração de Imposto de Renda* 
 
 
